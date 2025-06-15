@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: react-router-frontend
+    buildCommand: npm run build
+    staticPublishPath: "./dist"
+    env: node

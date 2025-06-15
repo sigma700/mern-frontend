@@ -7,6 +7,7 @@ export default defineConfig({
   base: "/",
   build: {
     outDir: "build",
+    emptyOutDir: true,
   },
   server: {
     port: 5371,
