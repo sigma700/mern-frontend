@@ -1,0 +1,1 @@
+import{w as i,o as e}from"./chunk-NL6KNZEE-UgZfVOb5.js";const t=i(function(){return e.jsx("main",{children:e.jsx("div",{children:e.jsx("h1",{children:"Here is where all the users items added into collection are displayed"})})})});export{t as default};
