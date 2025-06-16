@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/navbar";
 import NavLarge from "../components/navbar-lg";
-import { Form, Link, useParams } from "react-router";
+import { Form, Link } from "react-router";
 
 export default function Finding() {
   const [schools, setSchools] = useState([]);
